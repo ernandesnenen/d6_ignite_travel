@@ -1,5 +1,8 @@
 # Desafio
-<vide src=''></video>
+<video>
+  <source src="'public\2022-03-23 09-02-31_Trim.mp4'" type="video/mp4">
+</video>
+
 
 ## Sobre
 O desafio teve dois objetivos. O primeiro era desenvolver toda a interface usando como base o Chakra UI, que é uma biblioteca de componentes simples, modular e acessível que fornece os blocos de construção necessários para construir seus aplicativos React, o outro era trabalhar a responsividade da aplicação.
